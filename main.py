@@ -1,7 +1,7 @@
 name = "Harini"
-python = 85
-sql = 90
-machine_learning = 80
+python = 15
+sql = 20
+machine_learning = 11
 
 total = python + sql + machine_learning
 average = total / 3
